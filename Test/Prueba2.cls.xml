@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Export generator="Cache" version="25">
 <Class name="Test.Prueba2">
+<Description>
+comentario</Description>
 <Super>%Persistent</Super>
 <TimeCreated>64280,39078.829981</TimeCreated>
 
@@ -12,8 +14,6 @@
 <IndexLocation>^Test.Prueba2I</IndexLocation>
 <StreamLocation>^Test.Prueba2S</StreamLocation>
 <Data name="Prueba2DefaultData">
-<Structure>listnode</Structure>
-<Subscript/>
 <Value name="1">
 <Value>%%CLASSNAME</Value>
 </Value>

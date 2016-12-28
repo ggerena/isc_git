@@ -7,7 +7,7 @@
 <Description>
 texto de prueba para el video</Description>
 <ClassMethod>1</ClassMethod>
-<Implementation><![CDATA[	Write "Holi po"
+<Implementation><![CDATA[	Write "Hola mundo git"
 ]]></Implementation>
 </Method>
 </Class>
