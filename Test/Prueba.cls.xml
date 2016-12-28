@@ -4,6 +4,8 @@
 <TimeCreated>64280,33506.874724</TimeCreated>
 
 <Method name="SayHi">
+<Description>
+esta es documentacion del metodo de la clase</Description>
 <ClassMethod>1</ClassMethod>
 <Implementation><![CDATA[	Write "Holi po"
 ]]></Implementation>
