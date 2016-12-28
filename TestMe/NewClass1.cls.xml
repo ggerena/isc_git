@@ -3,5 +3,21 @@
 <Class name="TestMe.NewClass1">
 <Super>%Persistent</Super>
 <TimeCreated>64280,39111.21296</TimeCreated>
+
+<Storage name="Default">
+<Type>%Library.CacheStorage</Type>
+<DataLocation>^TestMe.NewClass1D</DataLocation>
+<DefaultData>NewClass1DefaultData</DefaultData>
+<IdLocation>^TestMe.NewClass1D</IdLocation>
+<IndexLocation>^TestMe.NewClass1I</IndexLocation>
+<StreamLocation>^TestMe.NewClass1S</StreamLocation>
+<Data name="NewClass1DefaultData">
+<Structure>listnode</Structure>
+<Subscript/>
+<Value name="1">
+<Value>%%CLASSNAME</Value>
+</Value>
+</Data>
+</Storage>
 </Class>
 </Export>
