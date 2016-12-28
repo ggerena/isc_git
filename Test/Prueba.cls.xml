@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+<Class name="Test.Prueba">
+<TimeCreated>64280,33506.874724</TimeCreated>
+
+<Method name="SayHi">
+<ClassMethod>1</ClassMethod>
+<Implementation><![CDATA[	Write "Hello"
+]]></Implementation>
+</Method>
+</Class>
+</Export>
