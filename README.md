@@ -1,3 +1,2 @@
 # isc_git
-Este directorio contiene pruebas de archivos creados en Caché Studio e importados vía TortoiseGit hacia este repositorio
-Prueba de conectar Caché Studio con Git
+Este directorio contiene pruebas de archivos creados en Caché Studio e importados vía TortoiseGit hacia este repositorio.
