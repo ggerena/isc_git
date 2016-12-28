@@ -5,7 +5,7 @@
 
 <Method name="SayHi">
 <Description>
-esta es documentacion del metodo de la clase</Description>
+esta es documentacion del metodo de la clase.</Description>
 <ClassMethod>1</ClassMethod>
 <Implementation><![CDATA[	Write "Holi po"
 ]]></Implementation>
