@@ -2,7 +2,7 @@
 <Export generator="Cache" version="25">
 <Routine name="Prueba" type="MAC" languagemode="0"><![CDATA[
 Prueba
-	Write "prueba de rutina 3"
+	Write "prueba de rutina 4"
 	Quit
 ]]></Routine>
 </Export>
